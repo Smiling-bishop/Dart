@@ -1,0 +1,153 @@
+2020-04-29 15:28:04 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7faa91b2d310; archive(resolved)='<IDEArchive: 0x7faa95cf0f80>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7faa91b2d310; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7faa98c97820; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa865078e0; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa850f6730; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa7fab6ed0; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa84f4ac70; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa85270f70; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa8524e260; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa8520fe50; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7faa9aabd690; teamID='A5T27ZCN2J', teamName='Thimotey TSAN', teamType='Individual', username='thimotey.tsan@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faa84fd1ab0; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='(null)'>
+	<IDEDistributionContext: 0x7faa84f9d570; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='(null)'>
+	<IDEDistributionContext: 0x7faa7f670770; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faa902b3840>', team='(null)'>
+	<IDEDistributionContext: 0x7faa84db69b0; archive = '<IDEArchive: 0x7faa95cf0f80>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7faa91b2d310>
+2020-04-29 15:28:04 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-04-29 15:28:04 +0000  Processing step: IDEDistributionCopyItemStep
+2020-04-29 15:28:04 +0000  Running /usr/bin/ditto '-V' '/Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app'
+2020-04-29 15:28:04 +0000  >>> Copying /Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app 
+2020-04-29 15:28:04 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-04-29 15:28:04 +0000  5285 bytes for ./_CodeSignature/CodeResources
+2020-04-29 15:28:04 +0000  copying file ./Dart ... 
+2020-04-29 15:28:04 +0000  5215376 bytes for ./Dart
+copying file ./AppIcon60x60@2x.png ... 
+2020-04-29 15:28:04 +0000  4026 bytes for ./AppIcon60x60@2x.png
+copying file ./Base.lproj/LaunchScreen.nib ... 
+2020-04-29 15:28:04 +0000  1559 bytes for ./Base.lproj/LaunchScreen.nib
+2020-04-29 15:28:04 +0000  copying file ./Assets.car ... 
+2020-04-29 15:28:04 +0000  107839 bytes for ./Assets.car
+copying file ./main.jsbundle ... 
+2020-04-29 15:28:04 +0000  973762 bytes for ./main.jsbundle
+copying file ./embedded.mobileprovision ... 
+2020-04-29 15:28:04 +0000  13258 bytes for ./embedded.mobileprovision
+2020-04-29 15:28:05 +0000  copying file ./assets/app.json ... 
+2020-04-29 15:28:05 +0000  45 bytes for ./assets/app.json
+2020-04-29 15:28:05 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2020-04-29 15:28:05 +0000  761 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2020-04-29 15:28:05 +0000  405 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+2020-04-29 15:28:05 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2020-04-29 15:28:05 +0000  290 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2020-04-29 15:28:05 +0000  913 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2020-04-29 15:28:05 +0000  copying file ./assets/src/Assets/reset.png ... 
+2020-04-29 15:28:05 +0000  1648 bytes for ./assets/src/Assets/reset.png
+copying file ./assets/src/Assets/darts.png ... 
+2020-04-29 15:28:05 +0000  2791 bytes for ./assets/src/Assets/darts.png
+copying file ./assets/src/Assets/back.png ... 
+2020-04-29 15:28:05 +0000  392 bytes for ./assets/src/Assets/back.png
+2020-04-29 15:28:05 +0000  copying file ./Info.plist ... 
+2020-04-29 15:28:05 +0000  1368 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2020-04-29 15:28:05 +0000  8 bytes for ./PkgInfo
+2020-04-29 15:28:05 +0000  /usr/bin/ditto exited with 0
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-04-29 15:28:05 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-04-29 15:28:05 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-04-29 15:28:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionSymbolsStep
+2020-04-29 15:28:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionAppThinningStep
+2020-04-29 15:28:05 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionArchThinningStep
+2020-04-29 15:28:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app/Dart' '-verify_arch' 'arm64e'
+2020-04-29 15:28:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-04-29 15:28:05 +0000  Skipping architecture thinning for item "Dart" because arch "arm64e" wasn't found
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionODRStep
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-04-29 15:28:05 +0000  Running /usr/bin/xattr '-crs' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app'
+2020-04-29 15:28:05 +0000  /usr/bin/xattr exited with 0
+2020-04-29 15:28:05 +0000  Processing step: IDEDistributionCodesignStep
+2020-04-29 15:28:05 +0000  Entitlements for <IDEDistributionItem: 0x7faa84f8fbc0; bundleID='com.tsan.dart', path='<DVTFilePath:0x7faa84ce8990:'/Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7faaa4ce52d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7faa84d661a0; name='Apple Development: Thimotey TSAN (LTZ6FQHGS5)', hash='4FCF7B45B6F57B37FACDA2E45971FB282A32162B', serialNumber='5E1BE9D83F5A7ECE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-02-07 13:00:17 +0000''>', entitlements='{
+    "application-identifier" = "A5T27ZCN2J.com.tsan.dart";
+    "com.apple.developer.team-identifier" = A5T27ZCN2J;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "A5T27ZCN2J.com.tsan.dart"
+    );
+}', teamID='A5T27ZCN2J', identifier='com.tsan.dart', executablePath='<DVTFilePath:0x7faa85049080:'/Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app/Dart'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "A5T27ZCN2J.com.tsan.dart";
+    "com.apple.developer.team-identifier" = A5T27ZCN2J;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "A5T27ZCN2J.com.tsan.dart"
+    );
+}
+2020-04-29 15:28:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7faa84f8fbc0; bundleID='com.tsan.dart', path='<DVTFilePath:0x7faa84ce8990:'/Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7faaa4ce52d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7faa85264c40; name='Apple Development: Thimotey TSAN (LTZ6FQHGS5)', hash='4FCF7B45B6F57B37FACDA2E45971FB282A32162B', serialNumber='5E1BE9D83F5A7ECE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-02-07 13:00:17 +0000''>', entitlements='{
+    "application-identifier" = "A5T27ZCN2J.com.tsan.dart";
+    "com.apple.developer.team-identifier" = A5T27ZCN2J;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "A5T27ZCN2J.com.tsan.dart"
+    );
+}', teamID='A5T27ZCN2J', identifier='com.tsan.dart', executablePath='<DVTFilePath:0x7faa85049080:'/Users/thimotey/Library/Developer/Xcode/Archives/2020-04-29/dart 29.04.20, 17.27.xcarchive/Products/Applications/Dart.app/Dart'>', hardenedRuntime='0'>'> to: /var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/entitlements~~~LYUv0m
+2020-04-29 15:28:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6FE79B8A974C481D0FC23E6107D38F3F778A9B94' '--entitlements' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/entitlements~~~LYUv0m' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app'
+2020-04-29 15:28:05 +0000  /var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app: replacing existing signature
+2020-04-29 15:28:23 +0000  /var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root/Payload/Dart.app: signed app bundle with Mach-O thin (arm64) [com.tsan.dart]
+2020-04-29 15:28:23 +0000  /usr/bin/codesign exited with 0
+2020-04-29 15:28:23 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-04-29 15:28:23 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-29 15:28:23 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-04-29 15:28:23 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root' '/var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Packages/dart.ipa'
+2020-04-29 15:28:23 +0000  >>> Copying /var/folders/yb/8rkx1x39501_zz_2b9h96bgr0000gn/T/XcodeDistPipeline.~~~qwalUi/Root 
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/_CodeSignature/CodeResources ... 
+2020-04-29 15:28:23 +0000  5285 bytes for ./Payload/Dart.app/_CodeSignature/CodeResources
+copying file ./Payload/Dart.app/Dart ... 
+2020-04-29 15:28:23 +0000  5215376 bytes for ./Payload/Dart.app/Dart
+copying file ./Payload/Dart.app/AppIcon60x60@2x.png ... 
+2020-04-29 15:28:23 +0000  4026 bytes for ./Payload/Dart.app/AppIcon60x60@2x.png
+copying file ./Payload/Dart.app/Base.lproj/LaunchScreen.nib ... 
+1559 bytes for ./Payload/Dart.app/Base.lproj/LaunchScreen.nib
+copying file ./Payload/Dart.app/Assets.car ... 
+2020-04-29 15:28:23 +0000  107839 bytes for ./Payload/Dart.app/Assets.car
+copying file ./Payload/Dart.app/main.jsbundle ... 
+2020-04-29 15:28:23 +0000  973762 bytes for ./Payload/Dart.app/main.jsbundle
+copying file ./Payload/Dart.app/embedded.mobileprovision ... 
+2020-04-29 15:28:23 +0000  7452 bytes for ./Payload/Dart.app/embedded.mobileprovision
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/assets/app.json ... 
+45 bytes for ./Payload/Dart.app/assets/app.json
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2020-04-29 15:28:23 +0000  761 bytes for ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+copying file ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2020-04-29 15:28:23 +0000  405 bytes for ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+copying file ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+290 bytes for ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+copying file ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2020-04-29 15:28:23 +0000  913 bytes for ./Payload/Dart.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/assets/src/Assets/reset.png ... 
+1648 bytes for ./Payload/Dart.app/assets/src/Assets/reset.png
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/assets/src/Assets/darts.png ... 
+2791 bytes for ./Payload/Dart.app/assets/src/Assets/darts.png
+copying file ./Payload/Dart.app/assets/src/Assets/back.png ... 
+2020-04-29 15:28:23 +0000  392 bytes for ./Payload/Dart.app/assets/src/Assets/back.png
+2020-04-29 15:28:23 +0000  copying file ./Payload/Dart.app/Info.plist ... 
+1368 bytes for ./Payload/Dart.app/Info.plist
+copying file ./Payload/Dart.app/PkgInfo ... 
+2020-04-29 15:28:23 +0000  8 bytes for ./Payload/Dart.app/PkgInfo
+2020-04-29 15:28:23 +0000  /usr/bin/ditto exited with 0
+2020-04-29 15:28:23 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-04-29 15:28:23 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-04-29 15:28:23 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-04-29 15:28:23 +0000  Processing step: IDEDistributionCreateManifestStep
